@@ -17,7 +17,7 @@
     Exercício 14 - Consumo Combustivel
     Exercício 15 - Lucro da Loja
     Exercício 16 - Milhares Centenas Dezenas Unidades
-
+    novos exercicios
 ## Atividades II
     Exercício 1 - Publico total de um jogo
     Exercício 2 - Combustivel
